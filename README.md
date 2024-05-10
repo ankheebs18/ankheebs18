@@ -13,7 +13,11 @@ Hi There! 👋I'm Ankhee Biswas, a MBA graduate and 1+ year prior experience in 
 ➡️ Linkedin : https://www.linkedin.com/in/ankhee-biswas-20a2231b3/
 
 ⚙️Skills
-Language: SQL, Python 
-Database: PostgreSQL, MySQL 
-Visualization: Power BI 
+
+Language: SQL, Python
+
+Database: PostgreSQL, MySQL
+
+Visualization: Power BI
+
 Spreadsheet: MS Excel
