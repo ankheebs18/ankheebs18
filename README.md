@@ -1,6 +1,6 @@
 Welcome to my GitHub profile....
 
-Hi There! 👋I'm Ankhee Biswas, a MBA graduate and 1+ year prior experience in Research & Marketing Domain.
+Hi There! 👋I'm Ankhee Biswas, a MBA graduate and 1+ year prior experience in Social Media Analytics.
 
 👩‍💻I'm a Passionate Data Analyst seeking greater opportunities with a passion for uncovering insights from raw, messy, and unstructured data. 
 ⚔ I've armed myself with skills like MS Excel, Power BI, SQL,and Python to unlock the hidden stories inside data. 
