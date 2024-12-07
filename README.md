@@ -1,3 +1,4 @@
+<img src="https://www.canva.com/design/DAGYH_yNZsc/AvN2JVfy543ciK70HPaVMw/edit" alt="Placeholder Image" width="150" height="150" />
 <h1 align="center">Hi 👋, I'm Ankhee Biswas</h1>
 <h3 align="center">MBA Graduate | Data Analyst Enthusiast
 Welcome to My Github Profile, I am passionate about Data Analytics. Always exploring new stuffs..</h3>
