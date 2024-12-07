@@ -1,4 +1,6 @@
 <h1 align="center">Welcome to My Github Profile. Hi 👋, I'm Ankhee Biswas</h1>
+<h3 align="center">BCA | MBA | Data Enthusiast</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankheebs18&label=Profile%20views&color=0e75b6&style=flat" alt="ankheebs18" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
@@ -7,7 +9,7 @@
 
 - 📫 How to reach me **biswasankhee97@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1r_4k44V40fyHTszI5bVTFIgxF26jxE13](https://drive.google.com/drive/u/0/folders/1r_4k44V40fyHTszI5bVTFIgxF26jxE13)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/0/folders/1r_4k44V40fyHTszI5bVTFIgxF26jxE13)
 
 - ⚡ Fun fact **"I love uncovering hidden stories in messy datasets—it’s like solving a puzzle every day!"**
 
