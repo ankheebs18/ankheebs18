@@ -1,4 +1,4 @@
-<h1 align="center">https://www.canva.com/design/DAGYH_yNZsc/AvN2JVfy543ciK70HPaVMw/edit Welcome to My Github Profile.</h1>
+<h1 align="center">Welcome to My Github Profile. Hi 👋, I'm Ankhee Biswas</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankheebs18&label=Profile%20views&color=0e75b6&style=flat" alt="ankheebs18" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
@@ -26,5 +26,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankheebs18&show_icons=true&locale=en&layout=compact" alt="ankheebs18" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankheebs18&" alt="ankheebs18" /></p>
+
 
 
