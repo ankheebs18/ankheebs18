@@ -1,7 +1,13 @@
+![MasterHead](https://miro.medium.com/v2/resize:fit:679/0*tD5kEC2JYcKHH0zO.gif)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=violet&width=435&lines=Passionate+about++Data+Analytics+;Always+Exploring+New+Stuff.." alt="Typing SVG" /></a>
+
 <h1 align="center">Welcome to My Github Profile. Hi 👋, I'm Ankhee Biswas</h1>
 <h3 align="center">BCA | MBA | Data Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankheebs18&label=Profile%20views&color=0e75b6&style=flat" alt="ankheebs18" /> </p>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
 
 - 🌱 I’m currently learning **Machine Learning**
 
