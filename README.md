@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankhee Biswas</h1>
-<h3 align="center">MBA Graduate | Data Analyst Enthusiast </h3>
-<h3 Welcome to My Github Profile, I am passionate about Data Analytics. Always exploring new stuffs..</h3>
+<h3 align="center">MBA Graduate | Data Analyst Enthusiast
+Welcome to My Github Profile, I am passionate about Data Analytics. Always exploring new stuffs..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankheebs18&label=Profile%20views&color=0e75b6&style=flat" alt="ankheebs18" /> </p>
 
