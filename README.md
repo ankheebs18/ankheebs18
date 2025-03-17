@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/0/folders/1r_4k44V40fyHTszI5bVTFIgxF26jxE13)
 
-- ⚡ Fun fact **"I love uncovering hidden stories in messy datasets—it’s like solving a puzzle every day!"**
+- ⚡ Fun fact **"I’m a mix of a storyteller and a problem-solver—I dive into data to uncover insights and turn them into game-changing decisions!"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
