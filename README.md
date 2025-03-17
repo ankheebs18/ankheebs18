@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **SQL, Python, Power BI, Excel**
+- 💬 Ask me about **SQL, Python, Power BI, Excel, Market Research, Stakeholder Management, Client Communication, Project Management**
 
 - 📫 How to reach me **biswasankhee97@gmail.com**
 
